@@ -13,7 +13,7 @@ namespace Stochastik
     public partial class Form1 : Form
     {
         Random rnd = new Random();
-        Random rndo = new Random();
+       
         int ferari;
         int zufall2;
         int counter;
